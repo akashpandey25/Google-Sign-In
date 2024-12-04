@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310440415600",
+    "project_id": "sign-in-cc1ee",
+    "storage_bucket": "sign-in-cc1ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310440415600:android:96a9bf19a64f65e3a97fb5",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgFGp-c5RfX7IEFFgKlcEN9rHTHg3VZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
